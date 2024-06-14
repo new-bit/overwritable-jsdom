@@ -1,24 +1,18 @@
 {
-  "name": "jsdom",
-  "version": "24.1.0",
-  "description": "A JavaScript implementation of many web standards",
+  "name": "@new-bit/jsdom",
+  "version": "0.0.0",
+  "description": "Based on jsdom v24, but can overwrite built in object properties.",
   "keywords": [
     "dom",
     "html",
     "whatwg",
     "w3c"
   ],
-  "maintainers": [
-    "Elijah Insua <tmpvar@gmail.com> (http://tmpvar.com)",
-    "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
-    "Sebastian Mayr <sebmaster16@gmail.com> (https://blog.smayr.name/)",
-    "Joris van der Wel <joris@jorisvanderwel.com>",
-    "Timothy Gu <timothygu99@gmail.com> (https://timothygu.me/)",
-    "Magne Andersson <code@zirro.se> (https://zirro.se/)",
-    "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
-  ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new-bit/overwritable-jsdom.git"
+  },
   "dependencies": {
     "cssstyle": "^4.0.1",
     "data-urls": "^5.0.0",
