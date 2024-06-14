@@ -1,6 +1,6 @@
 {
   "name": "@new-bit/jsdom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Based on jsdom v24, but can overwrite built in object properties.",
   "keywords": [
     "dom",
