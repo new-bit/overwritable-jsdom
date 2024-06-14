@@ -1,3 +1,7 @@
+Based on jsdom v24, but can overwrite built in object properties without a message like
+`TypeError: Cannot redefine property`.
+
+# --- Original jsdom Doc below ---
 <h1 align="center">
     <img width="100" height="100" src="logo.svg" alt=""><br>
     jsdom
