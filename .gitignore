@@ -10,3 +10,5 @@ npm-debug.log*
 
 lib/jsdom/living/generated/**/*.js
 lib/jsdom/browser/js-globals.json
+
+.idea
